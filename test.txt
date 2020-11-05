@@ -1,0 +1,61 @@
+Q19. Ce documente trebuie sa semneze clientul, cu ocazia majorarii creditului ? 
+Variatii ale intrebarii: 
+ Care sunt actele pe care le incheie clientul la suplimentarea facilitatii ? 
+ Lucrez la o majorare de plafon . Imprumutatul vrea sa stie ce acte trebuie sa semneze . Ma poti ajuta? 
+Raspuns chatbot: 
+A19 .  Cu ocazia majorarii creditului, va fi incheiat un act aditional la contractul de credit, in care va fi reflectata noua suma a creditului, precum si acte modificatoare cu privire la garantii. Vrei sa stii mai multe despre documentatia aferenta garantiilor ? 
+Input user, pre-definit: DA, NU 
+Selectie: DA 
+A19.1 Garantiile vor trebui sa fie constituite pentru suma totala a creditului, rezultata in urma majorarii, astfel: 
+1. pentru garantiile existente anterior aprobarii majorarii creditului (fideiusiune, bunuri mobile sau imobile) , se vor incheia: 
+(a)    acte aditionale la contractele de fideiusiune/contractele de ipoteca mobiliara, prin care se va modifica suma garantata (aceasta va fi egala cu suma totala a creditului); 
+(b)   contracte de ipoteca imobiliara noi pentru suma garantata egala cu suma cu care se majoreaza creditul (suplimentul aprobat); 
+2. pentru garantiile noi, propuse cu ocazia     aprobarii majorarii creditului , se vor incheia:   contracte de fideiusiune/contracte de ipoteca mobiliara/ imobiliara (dupa caz) pentru suma garantata egala cu suma totala a creditului. 
+Selectie: NU        
+A19.2 In regula. Atunci, poate imi dai un feedback cu privire la discutia noastra ? . 
+            /  Te astept oricand mai ai intrebari pentru mine! 
+Q1.  Cum se semneaza documentatia de finantare?   
+Variatii ale intrebarii: 
+ Unde se semneaza actele de credit ? 
+ Cand se semneaza contractul de ipoteca ? 
+ Cum semnam contractul de credit si garantiile? 
+ Actele de credit trebuie sa fie semnate la banca? 
+ Putem semna ipoteca la sediul notarului? 
+ Pot sa-i trimit pe mail clientului sa semneze ? 
+ Clientul vrea sa-mi trimita  pe email contractul de credit semnat. E ok? 
+ Documentatia de credit se semneaza la sediul bancii ? 
+Raspuns chatbot: 
+A1 .  Documentatia de finantare se semneaza la sediul unitatilor bancii, in fata reprezentantului BT, care certifica identitatea si semnatura persoanelor semnatare  din partea imprumutatului si a garantilor. 
+Primul document care se semneaza este contractul de credit si numai dupa aceea se semneaza contractele de garantie si celelalte angajamente cum ar fi, scrisoarea de garantie corporativa sau declaratia de subordonare a creantelor, pentru ca acestea sunt accesorii obligatiei principale care rezulta din contractul de credit. 
+Contractele de ipoteca imobiliara necesita prezenta unui notar public, astfel ca acestea se semneaza fie la sediile bancii, in masura in care notarul se prezinta la banca, fie partile se deplaseaza la sediul biroului notarului care va autentifica respectivul document. 
+Q2.  Putem semna mai intai contractul de ipoteca si apoi contractul de credit ? 
+Variatii ale intrebarii: 
+ Putem semna contractul de ipoteca acum si contractul de credit mai tarziu , cand se va prezenta si imprumutatul? 
+ E ok sa semnam astazi ipoteca si maine contractul de credit ? 
+ Putem semna ipoteca inaintea contractului de credit? 
+ Prima care se semneaza este ipoteca sau creditul? 
+ Cum semnam ? Mai intai creditul si apoi ipoteca sau invers ? 
+ Care este ordinea de semnare a documentelor de finantare ? 
+ In ce ordine semnam actele de credit ? 
+ Notarul este disponibil doar azi sa semneze. E ok sa semnam zi cu el si maine restul documentelor ? 
+ Putem semna contractul de ipoteca la o saptamana de la semnarea contractului de credit ? 
+ Putem semna contractul de credit mai intai, iar garantiile la interval de cateva zile? 
+Raspuns chatbot: 
+A2 .  Contractele de garantie pot fi semnate numai dupa ce se incheie contractul de credit, garantiile fiind accesorii obligatiei principale care rezulta din contractul de credit. Totodata, in textul contractelor accesorii (i.e. contractul de ipoteca) se face trimitere la contractul de credit, identificat cu numar si data. 
+Din punct de vedere juridic, este important ca la momentul semnarii contractelor de garantie, contractul de credit sa fi fost deja incheiat, astfel ca incheierea contractelor de garantie la cateva zile dupa contractul de credit este permisa, insa, in aceasta situatie, se pune problema modalitatii de inregistrare in sistem a facilitatii de credit si a garantiilor aferente, fiind necesar ca acest lucru sa fie avut in vedere de la bun inceput, in procesul de aprobare a creditului.
+Q19. Ce documente trebuie sa semneze clientul, cu ocazia majorarii creditului ? 
+Variatii ale intrebarii: 
+ Care sunt actele pe care le incheie clientul la suplimentarea facilitatii ? 
+ Lucrez la o majorare de plafon . Imprumutatul vrea sa stie ce acte trebuie sa semneze . Ma poti ajuta? 
+Raspuns chatbot: 
+A19 .  Cu ocazia majorarii creditului, va fi incheiat un act aditional la contractul de credit, in care va fi reflectata noua suma a creditului, precum si acte modificatoare cu privire la garantii. Vrei sa stii mai multe despre documentatia aferenta garantiilor ? 
+Input user, pre-definit: DA, NU 
+Selectie: DA 
+A19.1 Garantiile vor trebui sa fie constituite pentru suma totala a creditului, rezultata in urma majorarii, astfel: 
+1. pentru garantiile existente anterior aprobarii majorarii creditului (fideiusiune, bunuri mobile sau imobile) , se vor incheia: 
+(a)    acte aditionale la contractele de fideiusiune/contractele de ipoteca mobiliara, prin care se va modifica suma garantata (aceasta va fi egala cu suma totala a creditului); 
+(b)   contracte de ipoteca imobiliara noi pentru suma garantata egala cu suma cu care se majoreaza creditul (suplimentul aprobat); 
+2. pentru garantiile noi, propuse cu ocazia     aprobarii majorarii creditului , se vor incheia:   contracte de fideiusiune/contracte de ipoteca mobiliara/ imobiliara (dupa caz) pentru suma garantata egala cu suma totala a creditului. 
+Selectie: NU        
+A19.2 In regula. Atunci, poate imi dai un feedback cu privire la discutia noastra ? . 
+            /  Te astept oricand mai ai intrebari pentru mine! 
